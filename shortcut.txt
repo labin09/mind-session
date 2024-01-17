@@ -1,0 +1,10 @@
+// copy=alt+shift+downArrow....
+/* dry(donot repeat yourself) principle */
+// FOR COMMMENT CTRL+/..
+//alert("js connected")
+// multiline cursor alt +shift + i ,2.hold alt key and press click..
+// alert("js connected")
+// ctrl +b toggle vscode sidebar
+// window +< split screen 
+// multiline comment= alt +shift +a
+// 
