@@ -10,3 +10,14 @@ to check step 2
 2.add
     >git add .
 3. git commit -m "variable" 
+4.git push
+
+
+
+// for pull
+/* if exceptional case
+1.d:
+2.cd desktp
+*/
+DIRECT DO IT
+1.git clone link
